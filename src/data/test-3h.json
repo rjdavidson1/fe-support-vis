@@ -1,0 +1,67 @@
+{
+  "supports": [
+    {
+      "characters": [
+        "Annette",
+        "Hilda"
+      ],
+      "affinity_levels":["C","B"],
+      "Notes": ""
+    }
+  ],
+  "characters": [
+    {
+      "name": "Annette",
+      "affiliation": "Blue Lions",
+      "available_routes": [
+        "Azure Moon",
+        "Crimson Flower",
+        "Verdant Wind",
+        "Silver Snow"
+      ],
+      "recruitment_notes": "10 Magic and B in Faith",
+      "portrait": "annette.png"
+    },
+    {
+      "name": "Hilda",
+      "affiliation": "Golden Deer",
+      "available_routes": [
+        "Azure Moon",
+        "Verdant Wind",
+        "Silver Snow"
+      ],
+      "recruitment_notes": "30 Charm and C in Axe. For Silver Snow route, Hilda cannot be recruited until Chapter 12.",
+      "portrait": "hilda.png"
+    },
+    {
+      "name": "Manuela",
+      "affiliation": "Church of Seiros",
+      "available_routes": [
+        "Azure Moon",
+        "Crimson Flower",
+        "Verdant Wind",
+        "Silver Snow"
+      ],
+      "recruitment_notes": "Byleth must be Level 15.",
+      "portrait": "manuela.png"
+    }
+  ],
+  "affiliations": [
+    {
+      "name": "Blue Lions",
+      "routes": [
+        "Azure Moon"
+      ],
+      "color": "#0055ff",
+      "icon": "blue-lions.png"
+    },
+    {
+      "name": "Golden Deer",
+      "routes": [
+        "Verdant Wind"
+      ],
+      "color": "#e1cd0e",
+      "icon": "golden-deer.png"
+    }
+  ]
+}
